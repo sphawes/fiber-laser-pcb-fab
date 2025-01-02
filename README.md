@@ -18,6 +18,8 @@ Aside from the fiber laser, you'll need:
 - Squeegee / scraper
 - Isopropyl Alcohol
 
+You can also download and 3D print the jig for cutting and aligning boards for the F1 from this repository. You'll just need some M4 bolts, 2mm dowel pins, and [this heatsink](https://amzn.to/4a2UuFx).
+
 ## File Prep
 
 In order to have the xTool software correctly process your files, there's some specific settings for exporting your boad that will render the correct image.
@@ -158,7 +160,7 @@ In order to have the xTool software correctly process your files, there's some s
 
 ## Cutting
 
-13. Select the outer edge and select the `Cut` job type, and the `Cut/Drill` settings. They're also shown below if you don't want to import them directly.
+1. Select the outer edge and select the `Cut` job type, and the `Cut/Drill` settings. They're also shown below if you don't want to import them directly.
 
     ![](img/degecuts-settings.png)
 
